@@ -2,10 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 <h3 align="center">A passionate Full-Stack developer from Jabalpur</h3>
+<p align="center">😍 Ayush Patel (Ayushp28) Student Of Baderia Global Engineering College Jabalpur</p>
+
 
 <img align="right" width="200" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNlqOekl-Ondde9pDXNnNhGItc-WfEByntWN2yHQs9njQM-_KsreydXw2fffRSKoaVRuD6Fj3609TIYAZBcaGv8Y05GBgnBkf4KWn7DhF3zcjm_xpZIfdw2D8donsffXZnIYdaX7JMfs5Zbgq3dTXjHyrIlhISrwE8vNIHipWpaGaA7SN0whYnBJbB/s320/ayu.webp" alt="ayush_image">
 
-
+<br><br>
 
 - 🌱 I’m currently learning **Data Structure & Algo**
 
@@ -33,12 +35,13 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayush-p28&show_icons=true&locale=en&layout=compact" alt="ayush-p28" /></p>
 
 <p align="center">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=ayush-p28&show_icons=true&locale=en" alt="ayush-p28" /></p>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ayush-p28&show_icons=true&locale=en" alt="ayush-p28" />
 
-<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-p28&" alt="ayush-p28" /></p>
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-p28&" alt="ayush-p28" />
 </p>
+<br><p></p><br>
 
-<br><br>
+
 <!--trophy-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-p28" alt="ayush-p28" /></a> </p>
 
