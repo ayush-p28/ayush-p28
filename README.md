@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 <h3 align="center">A passionate Full-Stack developer from Jabalpur</h3>
-<p>Student of Baderia Global Institute Of Management And Engineering Jabalpur</p>
+<p align="center">Student of Baderia Global Institute Of Management And Engineering Jabalpur</p>
 <br>
 
 # 💫 About Me:
