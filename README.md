@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 <h3 align="center">A passionate Full-Stack developer from Jabalpur</h3>
 <br>
-<br>
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structure & Algo<br>👨‍💻 All of my projects are available at https://ayush-p28.github.io/my-portfolio/<br>💬 Ask me about Web Development, Web Application & Android<br>💞️ I’m looking to collaborate on some projects on Android ,Web Development & JAVA<br>📫 How to reach me @patelayushp28@gmail.com
