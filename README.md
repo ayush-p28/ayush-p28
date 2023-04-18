@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://ayush-p28.github.io/my-portfolio/)
+[![MasterHead](https://im2.ezgif.com/tmp/ezgif-2-1b0b5c0929.gif)](https://ayush-p28.github.io/my-portfolio/)
 
 <h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 <h3 align="center">A passionate Full-Stack developer from Jabalpur</h3>
