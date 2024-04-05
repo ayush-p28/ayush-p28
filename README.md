@@ -7,10 +7,12 @@
 
 # 💫 About Me:
 🌱 I’m currently learning Data Structure & Algo<br>👨‍💻 All of my projects are available at https://ayush-p28.github.io/my-portfolio/<br>💬 Ask me about Web Development, Web Application & Android<br>💞️ I’m looking to collaborate on some projects on Android ,Web Development & JAVA<br>📫 How to reach me @patelayushp28@gmail.com
-
+<br>
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://fb.com/https://www.facebook.com/ayush.kachhipatel) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/https://www.instagram.com/ayush_akpatel/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/https://www.linkedin.com/in/ayush-patel-7aa58a236/) 
+
+<br>
 
 # 💻 Tech Stack:
 <h5> 🚀 &nbsp;Some Tools I Have Used and Learned</h5>
