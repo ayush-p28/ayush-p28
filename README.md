@@ -45,7 +45,8 @@
 <br>
 
 # 📊 Competitive Stats:
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=Ayushp28&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+
+[![KnlnKS's LeetCode stats](https://leetcard.jacoblin.cool/Ayushp28?theme=dark)](#)
 <br>
 
 ## 🏆 GitHub Trophies
