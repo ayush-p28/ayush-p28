@@ -1,4 +1,4 @@
-[![MasterHead](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFqYEyv8Ctgug6hB2cC9dYm4VvR39L0MUPq8lIPcTb3Aypl7bdX-GGVAIiWUWBFZ-oG__kCdK-cO5LJgGTsaPLWFw9aIIThJ8_jkEDkzI6N7pYsIX7nLd0gNaNxpEDNYUtdzzvxvxnHohPRmlRTGUT7uoGhGhinY3_ACCb2woL-mHSY5pP-g0o7jgR/s16000/ezgif-2-1b0b5c0929.gif)](https://portfolio-ayushp28.netlify.app/)
+[![MasterHead](https://raw.githubusercontent.com/ayush-p28/crypto_task/main/src/assets/Picture1.jpg)](https://portfolio-ayushp28.netlify.app/)
 
 <h1 align="center">Hi 👋, I'm Ayush Patel</h1>
 <h3 align="center">A passionate Full-Stack developer from Jabalpur</h3>
@@ -41,8 +41,8 @@
 # 📊 GitHub Stats:
 
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-p28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)&nbsp;
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayush-p28&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-p28&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br>
 
 # 📊 Competitive Stats:
